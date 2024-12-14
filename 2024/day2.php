@@ -1,5 +1,8 @@
 <?php
-
+/**
+ * Day 1: https://adventofcode.com/2024/day/2
+ *
+ */
 
 $inputs = file("inputs/day2.txt", FILE_IGNORE_NEW_LINES);
 $safeCount   = 0;
